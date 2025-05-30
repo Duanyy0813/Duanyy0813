@@ -1,11 +1,5 @@
 ## Hi I'm Duan Y Y 👋
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duanyy0813&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duanyy0813&repo=convoychat" />
-</a>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duanyy0813)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duanyy0813)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duanyy0813)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=duanyy0813)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **Duanyy0813/Duanyy0813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
